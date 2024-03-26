@@ -4,6 +4,4 @@
 
 ![](https://bstats.org/signatures/bukkit/MonsterPlus.svg)
 
-[MCBBS](https://www.mcbbs.net/thread-1412172-1-1.html)
-
 [WIKI](https://ricedoc.handyplus.cn/wiki/MonsterPlus/README/)
