@@ -1,0 +1,1 @@
+packageSearchIndex = [{"l":"cn.handyplus.monster"},{"l":"cn.handyplus.monster.api"},{"l":"cn.handyplus.monster.event"},{"l":"所有程序包","u":"allpackages-index.html"}];updateSearchResults();

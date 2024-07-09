@@ -1,0 +1,1 @@
+typeSearchIndex = [{"p":"cn.handyplus.monster","l":"MonsterPlus"},{"p":"cn.handyplus.monster.api","l":"MonsterPlusApi"},{"p":"cn.handyplus.monster.event","l":"MonsterPlusEntityDeathEvent"},{"p":"cn.handyplus.monster.event","l":"MonsterPlusUpLevelEvent"},{"l":"所有类和接口","u":"allclasses-index.html"}];updateSearchResults();
