@@ -6,7 +6,7 @@
 
     <groupId>cn.handyplus.monster</groupId>
     <artifactId>MonsterPlus</artifactId>
-    <version>1.1.2</version>
+    <version>1.1.3</version>
     <description>一款有点好用的怪物插件</description>
 
     <properties>
